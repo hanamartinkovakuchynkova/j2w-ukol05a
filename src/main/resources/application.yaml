@@ -1,0 +1,4 @@
+spring:
+  freemarker:
+    settings:
+      output_encoding: UTF-8
